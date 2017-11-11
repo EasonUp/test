@@ -169,7 +169,7 @@ function show_uploaded_files(file_ids_list) {
  **************************************/
 $(document).ready(function() {
     var uni = $("#userUNI").text();
-    mute_assignment_page();
+    //mute_assignment_page();
     mute_grade_page();
     //console.log('uni', uni);
 
